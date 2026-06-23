@@ -207,13 +207,13 @@ Rate limited. Retrying in 4000ms...
      - `MONGO_URI`
      - `JWT_SECRET`
      - `GEMINI_API_KEY`
-     - `FRONTEND_URL=https://your-frontend-url.vercel.app`
+     - `FRONTEND_URL=https://frontend-phi-flame-38.vercel.app`
      - `NODE_ENV=production`
      - `PORT=5000`
 
 4. **Deploy:** Click "Deploy"
 
-Your backend will be available at `https://your-app-name.onrender.com`
+Your backend will be available at `https://backend-lovat-seven-54.vercel.app`
 
 ### Frontend Deployment (Vercel)
 
@@ -231,11 +231,11 @@ Your backend will be available at `https://your-app-name.onrender.com`
    - Import your GitHub repository
    - Select the `frontend` folder
    - Add environment variable:
-     - `NEXT_PUBLIC_API_URL=https://your-backend-url.onrender.com`
+     - `NEXT_PUBLIC_API_URL=https://backend-lovat-seven-54.vercel.app`
 
 3. **Deploy:** Click "Deploy"
 
-Your frontend will be available at `https://your-app-name.vercel.app`
+Your frontend will be available at `https://frontend-phi-flame-38.vercel.app`
 
 ## 🔐 Security Checklist
 
